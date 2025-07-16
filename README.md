@@ -40,4 +40,6 @@ ai_chat_project/
 │   └── requirements.txt       # 📦 Backend Python dependencies
 ├── frontend/
 │   └── app.py                 # 🎨 Streamlit frontend app
-└── Dockerfile                 # 🐳 Dockerfile to build container image
+├── Dockerfile                 # 🐳 Dockerfile to build container image
+└── .dockerignore
+
